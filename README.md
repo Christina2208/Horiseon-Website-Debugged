@@ -27,16 +27,11 @@ This website's code has been modifed to flow more efficiently and provie easier 
 
 List of collaborators:
 - https://github.com/TheWiseSailor/Horiseon
-- 
-
 
 ## License
 
 Please refer to the LICENSE in the repo. 
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
